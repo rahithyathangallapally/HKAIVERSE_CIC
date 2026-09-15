@@ -38,3 +38,11 @@ https://rahithyathangallapally.github.io/HKAIVERSE_CIC/
 
 The live report allows readers to filter curriculum courses and
 compare the R22 curriculum with the proposed 2030 version.
+
+##Sources
+
+1. JNTUH R22 B.Tech CSE Syllabus – Used to verify the subjects and course content tested in this section.
+2. Stack Overflow Developer Survey 2025  – Used to understand current developer use and concerns regarding AI tools.
+3. IBM SQL DELETE Documentation – Used to verify the behavior of DELETE statements and the effect of omitting a WHERE clause.
+4. Russell & Norvig -Artificial Intelligence – A Modern Approach Reference for AI concepts covered during verification.
+5. Marsland -Machine Learning – An Algorithmic Perspective-Reference for machine-learning concepts used during verification.
