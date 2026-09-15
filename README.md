@@ -26,7 +26,7 @@ technologies.
 
 ## Live Report
 
-YOUR-GITHUB-PAGES-LINK
+https://rahithyathangallapally.github.io/HKAIVERSE_CIC/
 
 ## Technologies
 
